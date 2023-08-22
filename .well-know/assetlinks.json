@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "manu.dev.miscelaneo",
+      "sha256_cert_fingerprints":
+      ["C9:2D:BD:5D:FC:74:54:73:C4:17:66:8C:E2:1C:BE:1A:75:12:C4:93:2B:AD:12:B0:94:6E:42:23:4C:75:6C:C2"]
+    }
+  }]
+  
